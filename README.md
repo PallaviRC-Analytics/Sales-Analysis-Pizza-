@@ -3,7 +3,7 @@
 ## 📌 Business Overview
 This project analyzes a year's worth of retail pizza sales data to uncover key operational insights. As a Business Analyst, the goal was to translate raw transactional data into actionable KPIs to help management optimize staffing and menu offerings.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## 🚀 Key Performance Indicators (KPIs)
 Based on the analysis of 49,000+ items sold, the following annual metrics were identified:
